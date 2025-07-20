@@ -66,7 +66,7 @@ git clone https://github.com/Jay24-coder/Basic_Neural_Network.git
 ```
 
 2. Install required packages:
-```
+```bash
 pip install numpy matplotlib
 
 ```
