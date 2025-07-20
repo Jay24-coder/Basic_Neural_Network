@@ -61,7 +61,7 @@ Two plots are generated to visualize training:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/activation-functions-gradient-descent.git
+git clone https://github.com/Jay24-coder/Basic_Neural_Network.git
 
 ```
 
