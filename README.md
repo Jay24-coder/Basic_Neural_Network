@@ -74,5 +74,3 @@ pip install numpy matplotlib
 3. Run the notebook in Jupyter or any Python IDE that supports .ipynb
 
 ---
-
-
